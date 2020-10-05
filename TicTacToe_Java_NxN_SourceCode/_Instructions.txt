@@ -1,0 +1,15 @@
+Zendesk Take Home Exercise Compile Instructions
+-----------------------------------------------------------------------------------------------------------
+Suggested program: Command Prompt, Windows Powershell or similar software. Instructions below.
+
+Alternative: Use an Integrated Development Environment such as NetBeans and run the program.
+
+Requirments: board.java file and TicTacToe.java file has to be in the same folder when compiling/building/running.
+-----------------------------------------------------------------------------------------------------------
+Steps for Command prompt and Windows Powershell:
+
+1. Change Directory to folder that contains both files, board.java and TicTacToe.java.
+
+2. (optional if folder already contains files board.class and TicTacToe.class, otherwise required) Input "javac TicTacToe.java"
+
+3. Run program by inputting "java TicTacToe.
